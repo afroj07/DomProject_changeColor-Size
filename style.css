@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(7, 40, 43);
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
